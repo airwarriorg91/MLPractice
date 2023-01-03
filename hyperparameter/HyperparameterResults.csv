@@ -1,0 +1,6 @@
+,Model,Best Score,Best parameters
+0,SVM,0.9800000000000001,"{'C': 1, 'kernel': 'rbf'}"
+1,LR,0.9800000000000001,"{'C': 10, 'solver': 'lbfgs'}"
+2,RFC,0.9666666666666668,{'n_estimators': 10}
+3,GaussianNB,0.9533333333333334,{}
+4,MultinomialNB,0.9666666666666668,{'alpha': 10}
